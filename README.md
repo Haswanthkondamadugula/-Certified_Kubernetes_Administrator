@@ -1,6 +1,7 @@
 # 🚀 **Learn Certified Kubernetes Administrator (CKA) from Scratch**
 
-![cka](https://imgur.com/SBIFaPo.png)
+![image](https://github.com/user-attachments/assets/cfc3d137-9e29-4703-b959-29d496f796af)
+
 
 ---
 
@@ -190,13 +191,13 @@ We welcome all contributions to improve this repository! 🎉
 4️⃣ **Push changes** (`git push origin feature/my-feature`)  
 5️⃣ **Create a Pull Request**  
 
-💡 **Found an issue?** Open a **[GitHub Issue](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/issues)**  
+💡 **Found an issue?** Open a **[GitHub Issue](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/issues)**  
 
 ---
 
 ## 📜 **License**  
 
-This project is licensed under the **MIT License**. See the **[LICENSE](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/blob/master/LICENSE)** for details.  
+This project is licensed under the **MIT License**. See the **[LICENSE](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/blob/master/LICENSE)** for details.  
 
 ---
 
@@ -220,17 +221,5 @@ These experts have contributed significantly to the Kubernetes ecosystem:
 
 ### 🛠️ **Author & Community**  
 
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
+This project is crafted by Haswanth  
 I’d love to hear your feedback! Feel free to share your thoughts.  
-
----
-
-### 📧 **Connect with me:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshhaa-vardhan-reddy) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotHarshhaa)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prodevopsguy) [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/notharshhaa) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@prodevopsguy)  
-
----
-
-### 📢 **Stay Connected**  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
