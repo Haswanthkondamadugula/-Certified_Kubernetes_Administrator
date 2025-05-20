@@ -8,7 +8,7 @@
 <h3 align="center">📌 Master Kubernetes – From Beginner to CKA Certified! 🎯</h3>  
 
 <div align="center">
-  <a href="https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator">
+  <a href="https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator">
     <img src="CKA/images/logo.png" alt="CKA Logo" width="120">
     <img src="Helm/images/logo.svg" alt="Helm Logo" width="120">
     <img src="Operators/images/logo.png" alt="Operators Logo" width="120">
@@ -19,8 +19,8 @@
 <p align="center">
   A complete roadmap to learning Kubernetes and passing the Certified Kubernetes Administrator (CKA) exam with confidence.  
   <br><br>
-  <a href="https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/issues"><b>📢 Report an Issue</b></a> •  
-  <a href="https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/issues"><b>💡 Request a Feature</b></a>
+  <a href="https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/issues"><b>📢 Report an Issue</b></a> •  
+  <a href="https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/issues"><b>💡 Request a Feature</b></a>
 </p>  
 
 ---
@@ -83,10 +83,10 @@ This guide is structured to help you **learn in the right order**. Follow the se
 
 | 🚀 **Index** | 📌 **Topic**     | 📚 **Tutorial** | 🔗 **Official Docs** | 📌 **Description** |
 |-------------|----------------|-----------------|---------------------|--------------------|
-| 1️⃣  | **Kubernetes (CKA)** | [Start Here](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/tree/master/CKA) | [kubernetes.io](https://kubernetes.io) | Learn **Kubernetes core concepts** and become CKA certified! |
-| 2️⃣  | **Helm - Package Manager**       | [Learn Helm](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/tree/master/Helm) | [helm.sh](https://helm.sh) | Master **Kubernetes package management** with Helm 📦 |
-| 3️⃣  | **Kubernetes Operators**  | [Operators Guide](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/tree/master/Operators) | [kubernetes.io](https://kubernetes.io/docs/concepts/extend-kubernetes/operator) | Learn **custom Kubernetes extensions** with Operators ⚙️ |
-| 4️⃣  | **Monitoring with Prometheus** | [Monitoring with Prometheus](https://github.com/NotHarshhaa/Certified_Kubernetes_Administrator/tree/master/Prometheus) | [prometheus.io](https://prometheus.io) | Monitor & visualize your cluster with **Prometheus & Grafana** 📊 |
+| 1️⃣  | **Kubernetes (CKA)** | [Start Here](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/tree/master/CKA) | [kubernetes.io](https://kubernetes.io) | Learn **Kubernetes core concepts** and become CKA certified! |
+| 2️⃣  | **Helm - Package Manager**       | [Learn Helm](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/tree/master/Helm) | [helm.sh](https://helm.sh) | Master **Kubernetes package management** with Helm 📦 |
+| 3️⃣  | **Kubernetes Operators**  | [Operators Guide](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/tree/master/Operators) | [kubernetes.io](https://kubernetes.io/docs/concepts/extend-kubernetes/operator) | Learn **custom Kubernetes extensions** with Operators ⚙️ |
+| 4️⃣  | **Monitoring with Prometheus** | [Monitoring with Prometheus](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/tree/master/Prometheus) | [prometheus.io](https://prometheus.io) | Monitor & visualize your cluster with **Prometheus & Grafana** 📊 |
 | 5️⃣  | **AWS EKS (Coming Soon!)**    | 🚧 Coming Soon... | [AWS EKS](https://aws.amazon.com/eks) | Learn **Kubernetes on AWS** with Amazon EKS 🌐 |
 
 ---
