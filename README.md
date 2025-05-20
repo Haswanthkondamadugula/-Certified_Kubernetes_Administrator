@@ -8,7 +8,7 @@
 <h3 align="center">📌 Master Kubernetes – From Beginner to CKA Certified! 🎯</h3>  
 
 <div align="center">
-  <a href="https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator">
+  <a href="https://github.com/Haswanthkondamadugula//Certified_Kubernetes_Administrator">
     <img src="CKA/images/logo.png" alt="CKA Logo" width="120">
     <img src="Helm/images/logo.svg" alt="Helm Logo" width="120">
     <img src="Operators/images/logo.png" alt="Operators Logo" width="120">
