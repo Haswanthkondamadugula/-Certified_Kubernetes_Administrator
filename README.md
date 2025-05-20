@@ -221,5 +221,5 @@ These experts have contributed significantly to the Kubernetes ecosystem:
 
 ### 🛠️ **Author & Community**  
 
-This project is crafted by Haswanth  
+This project is crafted by **[Haswanth](https://github.com/Haswanthkondamadugula)** 💡
 I’d love to hear your feedback! Feel free to share your thoughts.  
