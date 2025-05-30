@@ -191,13 +191,13 @@ We welcome all contributions to improve this repository! 🎉
 4️⃣ **Push changes** (`git push origin feature/my-feature`)  
 5️⃣ **Create a Pull Request**  
 
-💡 **Found an issue?** Open a **[GitHub Issue](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/issues)**  
+💡 **Found an issue?** Open a **[GitHub Issue](https://github.com/Haswanthkondamadugula/-Certified_Kubernetes_Administrator/issues)**  
 
 ---
 
 ## 📜 **License**  
 
-This project is licensed under the **MIT License**. See the **[LICENSE](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/blob/master/LICENSE)** for details.  
+This project is licensed under the **MIT License**. See the **[LICENSE](https://github.com/Haswanthkondamadugula/-Certified_Kubernetes_Administrator/blob/main/LICENSE.txt)** for details.  
 
 ---
 
