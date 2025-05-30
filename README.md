@@ -83,10 +83,10 @@ This guide is structured to help you **learn in the right order**. Follow the se
 
 | 🚀 **Index** | 📌 **Topic**     | 📚 **Tutorial** | 🔗 **Official Docs** | 📌 **Description** |
 |-------------|----------------|-----------------|---------------------|--------------------|
-| 1️⃣  | **Kubernetes (CKA)** | [Start Here](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/tree/master/CKA) | [kubernetes.io](https://kubernetes.io) | Learn **Kubernetes core concepts** and become CKA certified! |
-| 2️⃣  | **Helm - Package Manager**       | [Learn Helm](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/tree/master/Helm) | [helm.sh](https://helm.sh) | Master **Kubernetes package management** with Helm 📦 |
-| 3️⃣  | **Kubernetes Operators**  | [Operators Guide](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/tree/master/Operators) | [kubernetes.io](https://kubernetes.io/docs/concepts/extend-kubernetes/operator) | Learn **custom Kubernetes extensions** with Operators ⚙️ |
-| 4️⃣  | **Monitoring with Prometheus** | [Monitoring with Prometheus](https://github.com/Haswanthkondamadugula/Certified_Kubernetes_Administrator/tree/master/Prometheus) | [prometheus.io](https://prometheus.io) | Monitor & visualize your cluster with **Prometheus & Grafana** 📊 |
+| 1️⃣  | **Kubernetes (CKA)** | [Start Here](https://github.com/Haswanthkondamadugula/-Certified_Kubernetes_Administrator/blob/main/CKA/README.md) | [kubernetes.io](https://kubernetes.io) | Learn **Kubernetes core concepts** and become CKA certified! |
+| 2️⃣  | **Helm - Package Manager**       | [Learn Helm](https://github.com/Haswanthkondamadugula/-Certified_Kubernetes_Administrator/blob/main/Helm/README.md) | [helm.sh](https://helm.sh) | Master **Kubernetes package management** with Helm 📦 |
+| 3️⃣  | **Kubernetes Operators**  | [Operators Guide](https://github.com/Haswanthkondamadugula/Kubernetes) | [kubernetes.io](https://kubernetes.io/docs/concepts/extend-kubernetes/operator) | Learn **custom Kubernetes extensions** with Operators ⚙️ |
+| 4️⃣  | **Monitoring with Prometheus** | [Monitoring with Prometheus](https://github.com/Haswanthkondamadugula/-Certified_Kubernetes_Administrator/blob/main/Prometheus/README.md) | [prometheus.io](https://prometheus.io) | Monitor & visualize your cluster with **Prometheus & Grafana** 📊 |
 | 5️⃣  | **AWS EKS (Coming Soon!)**    | 🚧 Coming Soon... | [AWS EKS](https://aws.amazon.com/eks) | Learn **Kubernetes on AWS** with Amazon EKS 🌐 |
 
 ---
